@@ -1,0 +1,21 @@
+.result {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 60vh;
+    text-align: center;
+}
+.congrats{
+    font-family:Marcellus;
+    font-size:50px;
+    align-self:center ;
+    padding-left: 290px;
+    color: #011c25;
+padding-right:290px;
+}
+.score{
+    padding-top: 60px;
+    font-size:40px;
+    font-family:Marcellus;
+    color: #153e7a;
+}

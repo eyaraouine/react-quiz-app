@@ -1,0 +1,19 @@
+.title{
+    font-size:4vw ;
+    color: #0a4580;
+    font-family: Courgette;
+}
+.logo{
+    width: 100px;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 600px;
+}
+.divider{
+    margin: 10px;
+    width: 100%;
+    background-color: azure;
+}
